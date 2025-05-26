@@ -1,0 +1,92 @@
+{
+  "result": [
+    {
+      "no": "1",
+      "name": "Guglielmo Vicario",
+      "birth_date": "1996-10-07",
+      "position": "Goalkeeper",
+      "international": "Italy",
+      "poster": "https://resources.premierleague.com/premierleague/photos/players/250x250/p223340.png"
+    },
+    {
+      "no": "17",
+      "name": "Cristian Romero",
+      "birth_date": "1998-04-27",
+      "position": "Defender",
+      "international": "Argentina",
+      "poster": "https://resources.premierleague.com/premierleague/photos/players/250x250/p513003.png"
+    },
+    {
+      "no": "37",
+      "name": "Micky van de Ven",
+      "birth_date": "2001-04-19",
+      "position": "Defender",
+      "international": "Netherlands",
+      "poster": "https://resources.premierleague.com/premierleague/photos/players/250x250/p513007.png"
+    },
+    {
+      "no": "13",
+      "name": "Destiny Udogie",
+      "birth_date": "2002-11-28",
+      "position": "Defender",
+      "international": "Italy",
+      "poster": "https://resources.premierleague.com/premierleague/photos/players/250x250/p513002.png"
+    },
+    {
+      "no": "23",
+      "name": "Pedro Porro",
+      "birth_date": "1999-09-13",
+      "position": "Defender",
+      "international": "Spain",
+      "poster": "https://resources.premierleague.com/premierleague/photos/players/250x250/p513004.png"
+    },
+    {
+      "no": "8",
+      "name": "Yves Bissouma",
+      "birth_date": "1996-08-30",
+      "position": "Midfielder",
+      "international": "Mali",
+      "poster": "https://resources.premierleague.com/premierleague/photos/players/250x250/p513008.png"
+    },
+    {
+      "no": "10",
+      "name": "James Maddison",
+      "birth_date": "1996-11-23",
+      "position": "Midfielder",
+      "international": "England",
+      "poster": "https://resources.premierleague.com/premierleague/photos/players/250x250/p513009.png"
+    },
+    {
+      "no": "29",
+      "name": "Pape Matar Sarr",
+      "birth_date": "2002-09-14",
+      "position": "Midfielder",
+      "international": "Senegal",
+      "poster": "https://resources.premierleague.com/premierleague/photos/players/250x250/p513013.png"
+    },
+    {
+      "no": "7",
+      "name": "Son Heung-min",
+      "birth_date": "1992-07-08",
+      "position": "Forward",
+      "international": "South Korea",
+      "poster": "https://resources.premierleague.com/premierleague/photos/players/250x250/p513015.png"
+    },
+    {
+      "no": "9",
+      "name": "Richarlison",
+      "birth_date": "1997-04-10",
+      "position": "Forward",
+      "international": "Brazil",
+      "poster": "https://resources.premierleague.com/premierleague/photos/players/250x250/p513016.png"
+    },
+    {
+      "no": "22",
+      "name": "Brennan Johnson",
+      "birth_date": "2001-05-23",
+      "position": "Forward",
+      "international": "Wales",
+      "poster": "https://resources.premierleague.com/premierleague/photos/players/250x250/p513020.png"
+    }
+  ]
+}
